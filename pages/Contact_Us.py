@@ -15,7 +15,3 @@ From: {user_email}
     if button:
         send_email(message)
         st.info("Your email was sent sucessfully")
-
-
-
-
